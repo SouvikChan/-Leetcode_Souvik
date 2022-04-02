@@ -17,7 +17,6 @@ public:
         int right = s.size() - 1;
         while (left <= right) {
             if(s[left] != s[right]) {
-                //two conditions 
                 if(pCheck(s, left + 1, right) || pCheck(s, left, right - 1)) {
                     return true;
                 } else {
