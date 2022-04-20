@@ -1,16 +1,15 @@
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> ans;
-        unordered_map<int,int> mp;
-        for(auto it:nums1)
-            mp[it]++;
+        vector<int> res;
+        map<int,int> mp;
+        for(auto x:nums1) mp[x]++;
         for(auto it:nums2){
             if(mp[it]>0){
-                ans.push_back(it);
+                res.push_back(it);
                 mp[it]--;
             }
         }
-        return ans;
+        return res;
     }
 };
