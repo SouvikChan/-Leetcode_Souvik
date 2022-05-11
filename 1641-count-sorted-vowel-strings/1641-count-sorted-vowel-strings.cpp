@@ -1,12 +1,13 @@
 class Solution {
 public:
     int countVowelStrings(int n) {
-        vector<int> ar(5, 1);
-        for(int i=2;i<=n;i++){
-            for(int j=ar.size()-2;j>=0;j--)
-                ar[j]+=ar[j+1];
+        int a=1, e=1, i=1, o=1, u=1;
+        while(--n){
+            o += u;
+            i += o;
+            e += i;
+            a += e;
         }
-        long long sum=accumulate(ar.begin(),ar.end(),0);
-        return sum;
+        return a+e+i+o+u;
     }
 };
