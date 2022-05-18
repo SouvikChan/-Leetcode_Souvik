@@ -1,6 +1,8 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
+        
+//         O(N)
         // int n=nums.size();
         // auto cnt=0;
         // for(int i=0;i<n;++i){
@@ -9,7 +11,8 @@ public:
         // return cnt;
         
 //         Binary Search Approach
-        
+
+//        O(log(N))        
         int low=0, high=nums.size()-2;
         while(low<=high){
             int mid=(low+high)/2;
