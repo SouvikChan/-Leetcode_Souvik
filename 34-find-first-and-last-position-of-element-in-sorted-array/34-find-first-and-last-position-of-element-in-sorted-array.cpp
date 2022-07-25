@@ -1,10 +1,12 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        if (nums.size() == 0) return {-1, -1};
-        int l = lower_bound(nums.begin(), nums.end(), target) - nums.begin();
-        int u = upper_bound(nums.begin(), nums.end(), target) - nums.begin();
-        if (l >= nums.size() || nums[l] != target) return {-1, -1};
-        else return {l, u - 1};
+        int n=nums.size();
+        if(n==0) return {-1,-1};
+        int lower=lower_bound(nums.begin(),nums.end(),target)-nums.begin();
+        int high=upper_bound(nums.begin(),nums.end(),target)-nums.begin();
+        if(lower>=n or nums[lower]!=target) return {-1,-1};
+        else return {lower, high-1}; 
+        
     }
 };
