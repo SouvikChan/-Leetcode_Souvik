@@ -1,17 +1,17 @@
 class Solution {
 public:
-    int n, m;
-    int uniquePathsWithObstacles(vector<vector<int>>& A) {
-        n=A.size(), m=A[0].size();
-        vector<vector<int>> paths(n, vector<int>(m, -1));
-        paths[n-1][m-1]=1;
-        dp(paths, A, 0, 0);
-        return paths[0][0];
+    
+    int helper(vector<vector<int>>&grid,int i, int j,int m, int n,vector<vector<int>>&dp){
+        if(i<0 || j<0 || i>=m || j>=n) return 0;
+        if(grid[i][j]) return 0;
+        if(i==m-1 && j==n-1 && !grid[i][j]) return 1;
+        if(dp[i][j]!=-1) return dp[i][j];
+        return dp[i][j]=helper(grid,i+1,j,m,n,dp)+helper(grid,i,j+1,m,n,dp);
     }
-    int dp(vector<vector<int>>&paths, vector<vector<int>>&A, int i, int j){
-        if(i<0 || i==n ||j<0|| j==m) return 0;
-        if(A[i][j]==1) return paths[i][j]=0;
-        if(paths[i][j]!=-1) return paths[i][j];
-        return paths[i][j]= dp(paths, A, i+1, j) + dp(paths, A,i,j+1);
+    
+    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
+        int m=obstacleGrid.size(), n=obstacleGrid[0].size();
+        vector<vector<int>>dp(m,vector<int>(n,-1));
+        return helper(obstacleGrid, 0, 0,m, n,dp);
     }
 };
