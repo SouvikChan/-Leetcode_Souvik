@@ -11,23 +11,21 @@
  */
 class Solution {
 public:
-    
-    void dfs(TreeNode* root,int currentLevel, int &maxHeight,vector<int>&ans){
-        if(root==NULL) return;
-        if(currentLevel>maxHeight){
-            ans.push_back(root->val);
-            maxHeight=currentLevel;
-        }
-        dfs(root->right,currentLevel+1,maxHeight,ans);
-        dfs(root->left,currentLevel+1,maxHeight,ans);
-    }
-    
     vector<int> rightSideView(TreeNode* root) {
-        if(root==NULL) return {};
-        vector<int> ans;
-        int maxHeight=0;
-        ans.push_back(root->val);
-        dfs(root,0,maxHeight,ans);
+        vector<int>ans;
+        queue<TreeNode*>q;
+        if(!root) return ans;
+        q.push(root);
+        while(!q.empty()){
+            int n=q.size();
+            for(int i=0;i<n;++i){
+                TreeNode* node=q.front();
+                q.pop();
+                if(node->left)q.push(node->left);
+                if(node->right)q.push(node->right);
+                if(i==n-1)ans.push_back(node->val);
+            }
+        }
         return ans;
     }
 };
