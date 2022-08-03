@@ -11,10 +11,13 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(head==NULL || head->next==NULL) return head;
-        struct ListNode* newhead=reverseList(head->next);
-        head->next->next=head;
-        head->next=NULL;
-        return newhead;
+        ListNode* newHead=NULL;
+        while(head!=NULL){
+            ListNode* next=head->next;
+            head->next=newHead;
+            newHead=head;
+            head=next;
+        }
+        return newHead;
     }
 };
