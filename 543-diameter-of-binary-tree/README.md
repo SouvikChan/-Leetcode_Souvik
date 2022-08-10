@@ -7,16 +7,16 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/03/06/diamtree.jpg" style="width: 292px; height: 302px;">
-<pre style="position: relative;"><strong>Input:</strong> root = [1,2,3,4,5]
+<pre><strong>Input:</strong> root = [1,2,3,4,5]
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> 3 is the length of the path [4,2,1,3] or [5,2,1,3].
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> root = [1,2]
+<pre><strong>Input:</strong> root = [1,2]
 <strong>Output:</strong> 1
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
