@@ -5,7 +5,6 @@ public:
         int prefixLength, targetLength = target.length(), count = 0;
         unordered_map<string, int> mp;
         for(auto suffix : nums) mp[suffix]++;
-        
         for(auto prefix : nums){
             prefixLength = prefix.length();
             if(target.substr(0, prefixLength) == prefix){
