@@ -4,15 +4,15 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<pre><strong>Input:</strong> ransomNote = "a", magazine = "b"
+<pre style="position: relative;"><strong>Input:</strong> ransomNote = "a", magazine = "b"
 <strong>Output:</strong> false
-</pre><p><strong>Example 2:</strong></p>
-<pre><strong>Input:</strong> ransomNote = "aa", magazine = "ab"
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><p><strong>Example 2:</strong></p>
+<pre style="position: relative;"><strong>Input:</strong> ransomNote = "aa", magazine = "ab"
 <strong>Output:</strong> false
-</pre><p><strong>Example 3:</strong></p>
-<pre><strong>Input:</strong> ransomNote = "aa", magazine = "aab"
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><p><strong>Example 3:</strong></p>
+<pre style="position: relative;"><strong>Input:</strong> ransomNote = "aa", magazine = "aab"
 <strong>Output:</strong> true
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
