@@ -1,11 +1,11 @@
 class Solution {
 public:
     int fillCups(vector<int>& amount) {
-        int mx = 0, sum = 0;
-        for(int& a: amount) {
-            mx = max(a, mx);
-            sum += a;
+        int maxi=0, sum=0;
+        for(auto i:amount){
+            maxi=max(maxi,i);
+            sum+=i;
         }
-        return max(mx, (sum + 1) / 2);
+        return max(maxi,(sum+1)/2);
     }
 };
