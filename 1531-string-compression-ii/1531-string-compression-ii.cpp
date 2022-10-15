@@ -8,7 +8,6 @@ public:
         if(idx >= n)
             return 0;
         
-        // if curCharFreqCount, consider it as 10, because, until 10 .. 99, string length will be 2, 
         if(curCharFreqCount >= 10)
             curCharFreqCount = 10;
         
