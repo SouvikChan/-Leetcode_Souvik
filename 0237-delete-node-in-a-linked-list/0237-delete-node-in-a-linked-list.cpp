@@ -9,8 +9,7 @@
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-        ListNode* fast=node;
-        ListNode* slow= node;
+        ListNode* slow=node, *fast=node;
         slow->val=slow->next->val;
         fast->next=fast->next->next;
     }
