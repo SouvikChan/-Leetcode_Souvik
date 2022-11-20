@@ -9,7 +9,7 @@ public:
         for(int i=0;i<size;++i){
             if(isdigit(s[i])){
                 sum=s[i]-'0';
-                while(i+1<size && isdigit(s[i+1])){
+                while(i+1<size and isdigit(s[i+1])){
                     sum = sum*10 + (s[i+1] -'0');
                     i++;
                 }
