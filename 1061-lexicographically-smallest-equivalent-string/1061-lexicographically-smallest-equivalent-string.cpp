@@ -12,7 +12,6 @@ public:
         }
         for (int i = 0; i<baseStr.size(); i++)
             baseStr[i] = ch[baseStr[i]-'a'];
-
         return baseStr;
     }
 };
