@@ -15,6 +15,7 @@ public:
     }
 
     vector<vector<int>> findSubsequences(vector<int>& nums) {
+        int n=nums.size();
         vector<int> output;
         set<vector<int>> ans;
         solve(nums, 0, output, ans);
