@@ -19,10 +19,8 @@ public:
                         }
                         
                     }
-                   
                 }
             }
-            
         }
          return ans;
     }
