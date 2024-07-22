@@ -6,6 +6,7 @@ Leetcode
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ Leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 ## Sorting
 |  |
