@@ -94,5 +94,6 @@ Leetcode
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0175-combine-two-tables) |
+| [0584-find-customer-referee](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
