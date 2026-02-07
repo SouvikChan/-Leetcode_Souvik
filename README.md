@@ -12,6 +12,7 @@ Leetcode
 | [0073-set-matrix-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
@@ -106,4 +107,5 @@ Leetcode
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
