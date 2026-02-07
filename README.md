@@ -8,6 +8,7 @@ Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@ Leetcode
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0908-middle-of-the-linked-list) |
