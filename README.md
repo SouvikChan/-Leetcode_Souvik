@@ -21,6 +21,7 @@ Leetcode
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 | [1390-four-divisors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1390-four-divisors) |
@@ -41,6 +42,7 @@ Leetcode
 | [0088-merge-sorted-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -53,11 +55,13 @@ Leetcode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
