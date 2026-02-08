@@ -18,6 +18,7 @@ Leetcode
 | [0118-pascals-triangle](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 ## Binary Search
@@ -71,12 +73,14 @@ Leetcode
 | [0056-merge-intervals](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -97,6 +101,7 @@ Leetcode
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
