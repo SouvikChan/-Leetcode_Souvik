@@ -54,6 +54,7 @@ Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
@@ -137,4 +138,12 @@ Leetcode
 | ------- |
 | [0118-pascals-triangle](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
