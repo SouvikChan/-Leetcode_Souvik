@@ -21,6 +21,7 @@ Leetcode
 | [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
@@ -54,6 +55,7 @@ Leetcode
 | [0073-set-matrix-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -75,6 +77,7 @@ Leetcode
 | [0088-merge-sorted-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
@@ -102,6 +105,7 @@ Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
