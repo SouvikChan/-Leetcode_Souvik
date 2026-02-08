@@ -10,6 +10,7 @@ Leetcode
 | [0027-remove-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0118-pascals-triangle) |
@@ -58,6 +59,7 @@ Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
