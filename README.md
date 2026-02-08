@@ -31,6 +31,7 @@ Leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1390-four-divisors) |
@@ -111,6 +112,7 @@ Leetcode
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
