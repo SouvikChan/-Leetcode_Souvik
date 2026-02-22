@@ -41,6 +41,7 @@ Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0031-next-permutation) |
@@ -139,12 +140,14 @@ Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
