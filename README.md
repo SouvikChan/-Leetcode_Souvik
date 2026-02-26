@@ -76,6 +76,7 @@ Leetcode
 | [0136-single-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Sorting
 |  |
 | ------- |
@@ -152,8 +153,13 @@ Leetcode
 | [0005-longest-palindromic-substring](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0151-reverse-words-in-a-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
