@@ -28,6 +28,7 @@ Leetcode
 | [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0485-max-consecutive-ones) |
+| [0860-lemonade-change](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0860-lemonade-change) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 | [1390-four-divisors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1390-four-divisors) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -171,6 +172,7 @@ Leetcode
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
