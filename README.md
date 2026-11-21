@@ -26,6 +26,7 @@ Leetcode
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 | [1390-four-divisors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1390-four-divisors) |
@@ -52,6 +53,7 @@ Leetcode
 | [0189-rotate-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -88,6 +90,7 @@ Leetcode
 | [0217-contains-duplicate](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -164,4 +167,12 @@ Leetcode
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
