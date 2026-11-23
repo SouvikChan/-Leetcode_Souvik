@@ -38,6 +38,7 @@ Leetcode
 | [0013-roman-to-integer](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1390-four-divisors) |
@@ -148,6 +149,7 @@ Leetcode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -177,4 +179,8 @@ Leetcode
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
