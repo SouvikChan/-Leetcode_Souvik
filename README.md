@@ -183,4 +183,8 @@ Leetcode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0070-climbing-stairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
