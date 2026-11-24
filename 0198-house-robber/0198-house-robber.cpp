@@ -1,19 +1,20 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int size= nums.size();
-        vector<int> dp(size, 0);
-        if(size == 0)
+
+    int solve(vector<int>&nums,int i,vector<int>&dp){
+        int n=nums.size();
+        if(i >= n)
             return 0;
-        if(size == 1)
-            return nums[0];
-        dp[0]=nums[0];
-        dp[1]=max(nums[0],nums[1]);
-        for(int i=2;i<size;++i){
-            int take = nums[i] +dp[i-2];
-            int skip = dp[i-1];
-            dp[i] = max (take,skip);
-        }
-        return dp[size-1];
+        if(dp[i] != -1)
+            return dp[i];
+        int skip = solve(nums,i+1,dp);
+        int take = nums[i]+solve(nums,i+2,dp);
+        return dp[i] = max(take,skip);
+        
+    }
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>dp(n+1,-1);
+        return solve(nums,0, dp);
     }
 };
