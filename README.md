@@ -29,6 +29,7 @@ Leetcode
 | [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0860-lemonade-change) |
 | [0948-sort-an-array](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0948-sort-an-array) |
 | [1390-four-divisors](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/1390-four-divisors) |
@@ -77,6 +78,7 @@ Leetcode
 | [0074-search-a-2d-matrix](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/SouvikChan/-Leetcode_Souvik/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
